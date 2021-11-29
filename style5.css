@@ -1,0 +1,30 @@
+body{
+    background-image: url(https://images.unsplash.com/photo-1520277739336-7bf67edfa768?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aG9zdGVsfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80);
+    background-repeat: no-repeat;
+    background-size: cover;
+   /* color: white;*/
+}
+.one{
+    width: 800px;
+    height: 600px;
+    border: solid white 2px;
+    margin-top: 45px;
+    border-radius: 25px;
+}
+h1{
+    color: white;
+    font-family: cursive;
+}
+select{
+    width: 300px;
+    height: 30px;
+    background-color: transparent;
+    color: white;
+    font-family: cursive;
+    border: solid white ;
+    margin-top: 50px;
+}
+option{
+    background-color: transparent;
+    color: black;
+}
